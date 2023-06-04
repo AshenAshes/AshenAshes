@@ -1,4 +1,12 @@
-### Hi there 👋
+
+# Welcome to Aluxes's Homepage~🎉
+
+
+<img src="https://count.getloli.com/get/@AshenAshes?theme=rule34"></img>
+<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshenAshes&layout=compact"></img>
+
+<img width="600px" src="https://github-readme-stats.vercel.app/api?username=AshenAshes&show_icons=true&count_private=true"></img>
+
 
 <!--
 **AshenAshes/AshenAshes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
