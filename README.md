@@ -4,9 +4,9 @@
 
 <img height="150px" src="https://count.getloli.com/get/@AshenAshes?theme=rule34"></img>
 
-<img width="400px" src="https://github-readme-stats-tib9-o4ubqm8nk-ashenashes.vercel.app/api/top-langs/?username=AshenAshes&layout=compact&langs_count=12"></img>
+<img width="400px" src="https://github-readme-stats-evde-ccflr0q88-ashenashes.vercel.app/api/top-langs/?username=AshenAshes&layout=compact&langs_count=12"></img>
 
-<img width="600px" src="https://github-readme-stats-tib9-o4ubqm8nk-ashenashes.vercel.app/api?username=AshenAshes&show_icons=true&count_private=true"></img>
+<img width="600px" src="https://github-readme-stats-evde-ccflr0q88-ashenashes.vercel.app/api?username=AshenAshes&show_icons=true&count_private=true"></img>
 
 
 <!--
