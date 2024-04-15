@@ -1,7 +1,7 @@
 # Welcome to Aluxes' Homepage~🎉
 
 
-<img height="150px" src="https://count.getloli.com/get/@AshenAshes?theme=rule34"></img>
+<img height="120px" src="https://count.getloli.com/get/@AshenAshes?theme=rule34"></img>
 
 #### ~~♪ Transcontinental stories never end ~~
 
@@ -13,10 +13,16 @@
 
 #### ~~♪ Heading straight to the world of bright ~~
 
-<img width="400px" src="https://github-readme-stats-evde-ccflr0q88-ashenashes.vercel.app/api/top-langs/?username=AshenAshes&layout=compact&langs_count=12"></img>
-
-<img width="600px" src="https://github-readme-stats-evde-ccflr0q88-ashenashes.vercel.app/api?username=AshenAshes&show_icons=true&count_private=true"></img>
-
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats-evde-ccflr0q88-ashenashes.vercel.app/api?username=AshenAshes&show_icons=true&hide_border=true&count_private=true"></img>
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats-evde-ccflr0q88-ashenashes.vercel.app/api/top-langs/?username=AshenAshes&layout=compact&hide_border=true&langs_count=12"></img>
+    </td>
+  </tr>
+</table>
 
 
 <!--
