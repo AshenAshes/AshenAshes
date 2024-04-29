@@ -1,7 +1,9 @@
 # Welcome to Aluxes' Homepage~🎉
 
-
-<img height="120px" src="https://count.getloli.com/get/@AshenAshes?theme=rule34"></img>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://count.getloli.com/get/@AshenAshes?theme=rule34">
+  <img height="120px" src="https://count.getloli.com/get/@AshenAshes?theme=rule34"></img>
+</picture>
 
 #### ~~♪ Transcontinental stories never end ~~
 
@@ -16,10 +18,16 @@
 <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats-evde-ccflr0q88-ashenashes.vercel.app/api?username=AshenAshes&show_icons=true&hide_border=true&count_private=true"></img>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-evde-ccflr0q88-ashenashes.vercel.app/api?username=AshenAshes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+        <img align="center" src="https://github-readme-stats-evde-ccflr0q88-ashenashes.vercel.app/api?username=AshenAshes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"></img>
+      </picture>
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats-evde-ccflr0q88-ashenashes.vercel.app/api/top-langs/?username=AshenAshes&layout=compact&hide_border=true&langs_count=12"></img>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-evde-ccflr0q88-ashenashes.vercel.app/api/top-langs/?username=AshenAshes&layout=compact&hide_border=true&langs_count=12&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+        <img align="center" src="https://github-readme-stats-evde-ccflr0q88-ashenashes.vercel.app/api/top-langs/?username=AshenAshes&layout=compact&hide_border=true&langs_count=12&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"></img>
+      </picture>
     </td>
   </tr>
 </table>
